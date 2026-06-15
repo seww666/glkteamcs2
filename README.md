@@ -1,2 +1,1 @@
-# NOVA-IT.io
-StarCorporation
+
